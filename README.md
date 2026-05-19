@@ -5,7 +5,7 @@ Je code principalement en **React / TypeScript / .NET** au travail (mission chez
 
 🎓 Mastère Ingénierie Blockchain à l'ESGI (2025)
 🏆 Deux hackathons Web3 en 2025 : Chiliz à Paris, ETHGlobal à Cannes
-🇨🇦 En transition vers le Québec — Arrima déposée, PVT en attente
+En transition vers le Québec — Arrima déposée, PVT en attente
 
 #### Quelques projets à regarder
 
